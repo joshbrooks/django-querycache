@@ -1,28 +1,32 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 joshbrooks/django-querycache is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 joshbrooks/django-querycache is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/django-querycache](https://github.com/joshbrooks/django-querycache)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|11/09/23 <br/>Report generated|
+|10<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -75,14 +79,14 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[black](https://pypi.org/black)|N/A|12/09/21|Joshua Brooks |MIT|N/A|
-|[coverage](https://pypi.org/coverage)|v6.2|12/12/21|Joshua Brooks |Apache-2.0|N/A|
-|[flake8](https://pypi.org/flake8)|v4.0.1|12/09/21|Joshua Brooks |MIT|N/A|
-|[isort](https://pypi.org/isort)|v5.10.1|12/09/21|Joshua Brooks |MIT|N/A|
-|[pre-commit](https://pypi.org/pre-commit)|v2.16.0|12/09/21|Joshua Brooks |MIT|N/A|
-|[pytest](https://pypi.org/pytest)|v6.2.5|12/12/21|Joshua Brooks |MIT|N/A|
+|[black](https://pypi.org/project/black)|N/A|12/09/21|Joshua Brooks |MIT|N/A|
+|[coverage](https://pypi.org/project/coverage)|v6.2|12/12/21|Joshua Brooks |Apache-2.0|N/A|
+|[flake8](https://pypi.org/project/flake8)|v4.0.1|12/09/21|Joshua Brooks |MIT|N/A|
+|[isort](https://pypi.org/project/isort)|v5.10.1|12/09/21|Joshua Brooks |MIT|N/A|
+|[pre-commit](https://pypi.org/project/pre-commit)|v2.16.0|12/09/21|Joshua Brooks |MIT|N/A|
+|[pytest](https://pypi.org/project/pytest)|v6.2.5|12/12/21|Joshua Brooks |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
